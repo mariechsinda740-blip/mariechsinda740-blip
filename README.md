@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bonjour, je suis Sinda Mariech 👋
 
-<!--
-**mariechsinda740-blip/mariechsinda740-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en 3e année de licence en Technologies de l'Informatique (ISET Charguia, Tunis).
+Je recherche un stage de fin d'études (PFE) en développement web ou mobile,
+avec une part d'intégration de l'intelligence artificielle.
 
-Here are some ideas to get you started:
+## Technologies
+- Langages : Python, Java, C, C#, JavaScript, PHP, Dart
+- Web : Angular, Spring Boot, ASP.NET Core, Symfony, Node.js
+- Mobile : Flutter, Android Studio
+- Bases de données : MySQL, PostgreSQL
+- Outils : Git, UML, Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Me contacter
+- LinkedIn : https://www.linkedin.com/in/sinda-mairech
+- Email : mariechsinda740@gmail.com
